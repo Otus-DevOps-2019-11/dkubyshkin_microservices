@@ -1,2 +1,0 @@
- travis encrypt "devops-team-otus:t5MYCCz3flo60zAeaxQ4uK5r#dmitry-kubyshkin" \
---add notifications.slack.rooms --com
