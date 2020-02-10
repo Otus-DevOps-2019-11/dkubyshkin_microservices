@@ -1,0 +1,6 @@
+n-msk-mackbdg:dkubyshkin_microservices ruakbdg$ docker images
+REPOSITORY                   TAG                 IMAGE ID            CREATED              SIZE
+dkubyshkin/ubuntu-tmp-file   latest              96c0789a829e        40 seconds ago       124MB
+yourname/ubuntu-tmp-file     latest              552d76f0e847        About a minute ago   124MB
+ubuntu                       16.04               96da9143fb18        3 weeks ago          124MB
+hello-world                  latest              fce289e99eb9        13 months ago        1.84kB
